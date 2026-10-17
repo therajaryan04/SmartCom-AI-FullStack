@@ -1,0 +1,9 @@
+Feature,LightGBM,Prophet
+Prediction Target,Demand Quantity,Sales Revenue
+Forecast Type,Machine Learning,Time Series
+Feature Engineering,Yes,No
+Trend Modelling,Limited,Automatic
+Seasonality,Manual,Automatic
+Holiday Effects,Manual,Automatic
+Interpretability,Medium,High
+Business Use,Inventory Planning,Revenue Planning

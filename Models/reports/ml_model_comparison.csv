@@ -1,0 +1,4 @@
+Model,Target,MAE,RMSE,MAPE,R2
+Random Forest,Quantity,1.423,1.686,89.07,-0.179
+XGBoost,Quantity,1.278,1.549,71.59,0.004
+LightGBM,Quantity,1.262,1.535,43.23,0.310

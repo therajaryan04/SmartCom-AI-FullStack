@@ -1,0 +1,2 @@
+Model,Target,MAE,RMSE,MAPE,R2
+Prophet,Revenue,10609.33,13947.94,32.71,0.4153
